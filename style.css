@@ -1,0 +1,51 @@
+* {
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: 300;
+}
+.wrapper {
+	padding: 30px;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+a {
+	color: #2879c9;
+}
+.name {
+	font-size: 18px;
+	font-weight: 900;
+	margin-bottom: 15px;
+}
+.sub-name {
+	margin-bottom: 20px;
+}
+.jobs {
+	display: flex;
+	margin-bottom: 15px;
+}
+.jobs-time {
+	min-height: 100%;
+	width: 20px;
+	background-color: #9de1cf;
+	margin-right: 20px;
+	position: relative;
+}
+.jobs-time span {
+	transform: rotate(-90deg) translate(-15px, -35px);
+	position: absolute;
+	width: 90px;
+	color: #000;
+}
+.jobs-name {
+	margin-bottom: 20px;
+}
+.your-place-on-jobs {
+	margin-bottom: 20px;
+}
+.title {
+	font-weight: 900;
+}
+.keys-skills {
+	text-align: center;
+	margin-bottom: 15px;
+}
