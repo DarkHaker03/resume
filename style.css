@@ -25,7 +25,7 @@ a {
 }
 .jobs-time {
 	min-height: 100%;
-	width: 20px;
+	min-width: 20px;
 	background-color: #9de1cf;
 	margin-right: 20px;
 	position: relative;
@@ -48,4 +48,5 @@ a {
 .keys-skills {
 	text-align: center;
 	margin-bottom: 15px;
+	min-width: 100px;
 }
