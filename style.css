@@ -39,6 +39,14 @@ a {
 }
 .jobs-name {
 	margin-bottom: 10px;
+	font-weight: 900;
+}
+.jobs-name img {
+	width: 10px;
+	height: 10px;
+}
+.jobs-name a {
+	font-weight: 900;
 }
 .your-place-on-jobs {
 	margin-bottom: 10px;
