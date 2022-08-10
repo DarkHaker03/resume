@@ -17,11 +17,11 @@ a {
 	margin-bottom: 15px;
 }
 .sub-name {
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 }
 .jobs {
 	display: flex;
-	margin-bottom: 15px;
+	margin-bottom: 25px;
 }
 .jobs-time {
 	min-height: 100%;
@@ -37,16 +37,16 @@ a {
 	color: #000;
 }
 .jobs-name {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 .your-place-on-jobs {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 .title {
 	font-weight: 900;
 }
 .keys-skills {
 	text-align: center;
-	margin-bottom: 15px;
+	margin-bottom: 20px;
 	min-width: 100px;
 }
