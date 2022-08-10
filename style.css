@@ -1,6 +1,6 @@
 * {
 	font-family: Arial;
-	font-size: 15px;
+	font-size: 12px;
 	font-weight: 300;
 }
 .wrapper {
@@ -12,7 +12,7 @@ a {
 	color: #2879c9;
 }
 .name {
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: 900;
 	margin-bottom: 15px;
 }
@@ -27,13 +27,14 @@ a {
 	min-height: 100%;
 	min-width: 20px;
 	background-color: #9de1cf;
-	margin-right: 20px;
+	margin-right: 15px;
 	position: relative;
 }
 .jobs-time span {
-	transform: rotate(-90deg) translate(-15px, -35px);
+	transform: rotate(-90deg) translate(-5px, -35px);
 	position: absolute;
 	width: 90px;
+	top: 0;
 	color: #000;
 }
 .jobs-name {
